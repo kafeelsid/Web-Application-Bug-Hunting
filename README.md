@@ -1,5 +1,5 @@
 # Web-Application-Bug-Hunting
-Project Description
+#Project Description
 Web application penetration testing, commonly referred to as "pen testing," is a security testing process that involves assessing the security of a web application by identifying and exploiting vulnerabilities that could be used by attackers to gain unauthorized access, steal data, or disrupt the regular operation of the application. Web application penetration testing, also known as web app pen testing, is the process of identifying vulnerabilities in a web application by attempting to exploit its weaknesses. This is typically done by using various tools and techniques to simulate attacks that a malicious hacker might use, with the goal of identifying and remedying any security flaws before they can be exploited by real attackers. The ultimate aim is to improve the web application's security posture and protect against potential security breaches. Basically, WAPT (Web Applications and Penetration Testing) is finding web app-based vulnerabilities on Websites. In this project, we will find vulnerabilities and exploit them and we also give remediation of those vulnerabilities.
 
 The pen testing process involves the following steps:
@@ -14,7 +14,7 @@ The pen testing process involves the following steps:
 
 Overall, the goal of web app pen testing is to identify security weaknesses in the application so that they can be addressed before attackers exploit them. By conducting regular pen testing, organizations can ensure that their web applications remain secure and protected against potential threats.
 
-Team Members
+#Team Members
 Abdul Ahad (TCA2056002)
 
 Kafeel Ahmad (TCA2056013)
